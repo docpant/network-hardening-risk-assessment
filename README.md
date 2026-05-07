@@ -39,3 +39,9 @@ The assessment focuses on identifying weak security practices, evaluating networ
 ## Outcome
 
 The assessment identified multiple weaknesses that increased the risk of future breaches. Recommended hardening measures were provided to strengthen authentication, network protection, and overall security management.
+
+## References
+
+- [Security Risk Assessment Report](docs/security-risk-assessment-report.pdf)
+
+- [Network Hardening Tools](docs/network-hardening-tools.pdf)
